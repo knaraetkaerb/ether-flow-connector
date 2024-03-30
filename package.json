@@ -1,0 +1,40 @@
+{
+  "name": "ether-flow-connector",
+  "version": "1.0.0",
+  "description": "Connects various blockchain flows, ensuring seamless transactions and data integrity across networks.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/ether-flow-connector"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "galactic-sentinel-node": "1.0.0",
+    "cosmic-truth-verifier": "1.0.0",
+    "webpack": "1.0.0",
+    "ipfs-http-client": "1.0.0",
+    "mysql": "1.0.0",
+    "web3": "1.0.0",
+    "jsonwebtoken": "1.0.0",
+    "react-dom": "1.0.0",
+    "mocha": "1.0.0",
+    "helmet": "1.0.0",
+    "xml2js": "1.0.0",
+    "chalk": "1.0.0",
+    "mongoose": "1.0.0",
+    "moment": "1.0.0",
+    "axios": "1.0.0",
+    "node-sass": "1.0.0",
+    "sequelize": "1.0.0",
+    "solc": "1.0.0",
+    "sinon": "1.0.0",
+    "react-redux": "1.0.0",
+    "bcrypt": "1.0.0"
+  }
+}
